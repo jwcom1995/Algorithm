@@ -1,2 +1,2 @@
 # Algorithm
-Practice Algorithm with Python &amp; JAVA
+Practice Algorithm with Python
